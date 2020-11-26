@@ -97,11 +97,6 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-emoji:
-  enable: true
-  className: github-emoji
-  styles:
-  customEmojis:
 ## Themes: https://hexo.io/themes/
 theme: next
 
